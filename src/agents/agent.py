@@ -1,4 +1,4 @@
-chfrom .planner import Planner
+from .planner import Planner
 from .researcher import Researcher
 from .formatter import Formatter
 from .coder import Coder
